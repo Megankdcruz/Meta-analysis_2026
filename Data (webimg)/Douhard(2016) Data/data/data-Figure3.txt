@@ -1,0 +1,19 @@
+class of early horn growth (mm)	mean age at harvest (years)	standard error of age at harvest	region
+< 200	9.611940	0.22198808	Skeena
+200_250	8.991228	0.10420319	Skeena
+250_300	8.943327	0.06795641	Skeena
+300_350	8.557823	0.05387708	Skeena
+350_400	8.204906	0.06423809	Skeena
+400_450	7.913858	0.08903586	Skeena
+450_500	7.800000	0.19314864	Skeena
+>500	7.818182	0.50123814	Skeena
+< 200	9.373984	0.09670132	Peace
+200_250	9.041543	0.05966599	Peace
+250_300	8.741746	0.04008640	Peace
+300_350	8.364644	0.03424495	Peace
+350_400	7.952059	0.03947525	Peace
+400_450	7.409266	0.06785984	Peace
+450_500	6.922481	0.11730811	Peace
+>500	6.740741	0.28541264	Peace
+			
+early horn growth = length of horn increments grown  during the second and third years of life			
